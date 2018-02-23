@@ -11,3 +11,40 @@ h1, h2, h3, h4, h4, h5, h6 {
 background-image: url('../images/fondo.jpg');
 margin-top: 24px;
 }
+
+footer {
+    background-color: rgb(0, 27, 27);
+    position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;  
+}
+
+
+.newspaper {
+
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    
+    -webkit-column-count: 2; /* Chrome, Safari, Opera */
+    
+    -moz-column-count: 3; /* Firefox */
+    
+    column-count: 2;
+    
+    }
+    
+    
+    
+    .titulodecolumnas {
+    
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    
+    text-align: center;
+    
+    text-decoration-line: underline;
+    
+    
+    
+    }
+    
+    
