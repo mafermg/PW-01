@@ -12,13 +12,6 @@ background-image: url('../images/fondo.jpg');
 margin-top: 24px;
 }
 
-footer {
-    background-color: rgb(128, 235, 243);
-    position: absolute;
-  right: 0;
-  bottom: 0;
-  left: 0;  
-}
 
 .newspaper {
 
@@ -29,7 +22,7 @@ footer {
     -moz-column-count: 3; /* Firefox */
     
     column-count: 2;
-    text-align: center;
+    text-align: left;
     padding-right: 400px;
     padding-left: 400px;
  
@@ -46,5 +39,9 @@ footer {
     font-size: 30px;
 
     }
-    
+
+    .container-fluid {
+        position: absolute;
+        bottom: 0; 
+    }
     
