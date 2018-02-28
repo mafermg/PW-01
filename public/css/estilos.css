@@ -19,12 +19,12 @@ margin-top: 24px;
     
     -webkit-column-count: 2; /* Chrome, Safari, Opera */
     
-    -moz-column-count: 3; /* Firefox */
+    -moz-column-count: 2; /* Firefox */
     
     column-count: 2;
     text-align: left;
-    padding-right: 400px;
-    padding-left: 400px;
+    padding-right: 300px;
+    padding-left: 300px;
  
     
     }   
